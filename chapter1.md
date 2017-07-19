@@ -14,11 +14,5 @@
 
 ![](https://wcunalata.gitbooks.io/documentacionsippc/content/assets/cancelar.jpg)![](https://wcunalata.gitbooks.io/documentacionsippc/content/assets/CANCELAR_2.jpg) = Permite eliminar los cambios en los registros de datos.
 
-![](https://wcunalata.gitbooks.io/documentacionsippc/content/assets/ACEPTAR.jpg) = Permite ingresar al sistema posterior a ingresar el usuario y clave
-
-![](https://wcunalata.gitbooks.io/documentacionsippc/content/assets/lista%20desplegable%20.jpg)![](https://wcunalata.gitbooks.io/documentacionsippc/content/assets/combo2.jpg) = Permite selecionar del listado desplegable en el caso se presente.
-
-![](https://wcunalata.gitbooks.io/documentacionsippc/content/assets/procesar.jpg) = Permite procesar e iniciar los procesos de POA Y PAC
-
-![](https://wcunalata.gitbooks.io/documentacionsippc/content/assets/subir.jpg) = Subir un nivel en formulario de registro.
+![](https://wcunalata.gitbooks.io/documentacionsippc/content/assets/ACEPTAR.jpg)para descargar 
 
